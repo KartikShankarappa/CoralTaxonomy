@@ -1,0 +1,1 @@
+This Java project mimics the [coral taxonomy](http://en.wikipedia.org/wiki/Coral#Taxonomy) of coral within coral reefs.
